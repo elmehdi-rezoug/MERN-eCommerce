@@ -66,7 +66,7 @@ Cette commande effectuera le pulling des images depuis Docker Hub et exécutera 
 
 ## 👨‍💻 Auteur
 
-- **Marwane Mallouk**  
+- **Elmehdi rezoug**  
 📧 elmehdirezoug100@gmail.com  
 [GitHub](https://github.com/elmehdi-rezoug)
 
