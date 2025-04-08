@@ -22,12 +22,14 @@ cd MERN-eCommerce
 
 # Installer les dépendances du backend
 npm install
+npm start
 
 # Accéder au frontend
 cd frontend
 
 # Installer les dépendances du frontend
 npm install
+npm start
 ```
 
 Accéder à l’application sur : [http://localhost:3000](http://localhost:3000)
